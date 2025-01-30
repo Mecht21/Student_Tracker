@@ -1,6 +1,6 @@
 ##Student Tracker
-![Student Attendance Tracking Banner](![image](https://github.com/user-attachments/assets/dab973a9-0809-4d09-a3fe-bccc796fd164)
-)
+![image](https://github.com/user-attachments/assets/85c08fcf-55fa-4fc6-ad02-192e3235c64a)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
